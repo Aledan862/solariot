@@ -34,7 +34,7 @@ customise your own modbus register file.
 
 1. Download or clone this repository to your local workstation.
     ```
-    git clone https://github.com/meltaxa/solariot.git
+    git clone https://github.com/Aledan862/solariot.git
     cd solariot
     ```
    
